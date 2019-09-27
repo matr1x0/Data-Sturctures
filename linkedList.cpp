@@ -47,6 +47,7 @@ int main() {
     Node *head = Node::newNode('-');
     Node::insert(&head, Node::newNode('a'));
     Node::insert(&head, Node::newNode('c'));
+    Node::insert(&head, Node::newNode('e'));
     Node::insert(&head, Node::newNode('d'));
     Node::insert(&head, Node::newNode('b'));
 
