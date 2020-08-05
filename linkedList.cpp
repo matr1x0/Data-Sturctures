@@ -1,6 +1,5 @@
 /* Program to implement a Linked List and basic functions using "triple ref" 
 technique. 
-Created By - Kumar Aditya (matr1x0) 
 */ 
 
 #include <iostream> 
